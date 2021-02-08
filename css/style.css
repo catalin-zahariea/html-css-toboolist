@@ -59,6 +59,7 @@ header div {
 }
 
 .first-section {
+    margin-top: 35px;
     padding: 15px 50px;
     background-color: white;
     border-radius: 5px;
@@ -66,6 +67,7 @@ header div {
 }
 
 .second-section {
+    margin-top: 2px;
     padding: 15px 50px;
     background-color: white;
     border-radius: 5px;
@@ -133,67 +135,34 @@ h3 {
     margin-right: 10px;
 }
 
-.blue-tag {
+.list-tag {
     display: inline-block;
     font-size: 8px;
     color: white;
     font-weight: 200;
-    background-color: #63aceb;
     border-radius: 15px;
     padding: 5px 10px;
     vertical-align: middle;
     text-align: center;
     margin-left: 10px;
+}
+
+.blue-tag {
+    background-color: #63aceb;
 }
 
 .purple-tag {
-    display: inline-block;
-    font-size: 8px;
-    color: white;
-    font-weight: 200;
     background-color: #9574d3;
-    border-radius: 15px;
-    padding: 5px 10px;
-    vertical-align: middle;
-    text-align: center;
-    margin-left: 10px;
 }
 
 .green-tag {
-    display: inline-block;
-    font-size: 8px;
-    color: white;
-    font-weight: 200;
     background-color: #7cbeaa;
-    border-radius: 15px;
-    padding: 5px 10px;
-    vertical-align: middle;
-    text-align: center;
-    margin-left: 10px;
 }
 
 .orange-tag {
-    display: inline-block;
-    font-size: 8px;
-    color: white;
-    font-weight: 200;
     background-color: #e6a14b;
-    border-radius: 15px;
-    padding: 5px 10px;
-    vertical-align: middle;
-    text-align: center;
-    margin-left: 10px;
 }
 
 .pink-tag {
-    display: inline-block;
-    font-size: 8px;
-    color: white;
-    font-weight: 200;
     background-color: #ca6a9d;
-    border-radius: 15px;
-    padding: 5px 10px;
-    vertical-align: middle;
-    text-align: center;
-    margin-left: 10px;
 }
