@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     font-family: "Arial", sans-serif;
+    font-size: 16px;
 }
 
 /* RESET END */
@@ -78,8 +79,6 @@ header div {
     background-color: #63aceb;
     border-radius: 5px;
     padding: 10px 15px;
-    height: 40px;
-    vertical-align: middle;
     text-align: center;
 }
 
@@ -90,8 +89,7 @@ header div {
     font-weight: 200;
     border: 2px solid lightgrey;
     border-radius: 5px;
-    padding: 10px 15px;
-    vertical-align: middle;
+    padding: 8px 15px;
     text-align: center;
 }
 
